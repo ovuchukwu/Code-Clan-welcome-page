@@ -19,7 +19,7 @@ class SecondScreen extends StatelessWidget {
           onPressed: () {
             Navigator.pop(context);
           },
-          child: Text(
+          child: Text( 
             'Go Back',
             style: TextStyle(
               fontSize: 20.0,
